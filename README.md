@@ -1,6 +1,6 @@
 # CSE383-Tomtom-API-Webpage
+### Alexander J. Habegger
 
-## Overview
 This repository contains a project related to the TomTom API, developed as part of CSE383 coursework. The main purpose of this project is to demonstrate the integration and use of the TomTom API within a web application.
 
 ## Files in the Repository
