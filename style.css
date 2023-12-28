@@ -1,0 +1,25 @@
+.hiddenSection {
+	display: none;
+}
+
+.card-margin {
+	padding: 15px;
+	padding-top: 25px;
+}
+
+.card-img-top {
+	padding-top: 25px;
+}
+
+.error {
+	color: red;
+	text-align: center;
+}
+
+label {
+	font-weight: bold;
+}
+
+label.radio-btn {
+	font-weight: normal;
+}
